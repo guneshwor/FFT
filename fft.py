@@ -20,8 +20,8 @@ Output:
 * Times spent by each of them
 
 Limitation:
-The number of data points from the file are should
-be even
+The number of data points from the file are ass-
+med to be even
 
 """
 import csv
